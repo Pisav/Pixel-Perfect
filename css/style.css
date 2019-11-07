@@ -1,0 +1,24 @@
+body {padding: 0px;margin: 0px;} .navbar {width: 100vw;height: 65px;background-color: white;}.navbar img {float: left;padding-top: 10px;padding-left: 130px;}
+.drop {padding-top: 20px;padding-right: 5em;}.drop a {padding-left: 9px;}.foto {width: 173px;height: 143px;background-size: cover;float: right;margin-top: -100px; margin-right: 70px;background: url(../img/hersens-icon.png) no-repeat;
+}a {float: right;color: #0073cf;}select {float: right;border: none;color: #0073cf;font-size: 15px;font-family: }header {padding-top: 5px;height: 380px;width: 100%;background: url(../img/slide-iddink1.jpg);background-size: cover;
+}header p {color: white;font-size: 25px;padding-top: 3em;padding-left: 8em;font-family: "Quicksand", "sans-serif"
+}header button {margin-top: 6em;margin-left: 35em;background-color: #0073cf;padding:10px;padding-left: 15px;padding-right: 15px;background-color: #0073cf;padding: 10px 20px 10px 20px;font-weight: 400;font-size: 14px; text-transform: uppercase;
+  color: #fff;border-style: solid;border-width: 1.5px;border-color: #fff;border-radius: 4px;display: block;}.kop1 {text-align: center;}.kop1_foto {float: right;height: 110px;width: 270px;
+background: url(../img/ipad-pijl.png);background-size: cover;margin-right: 21.5em;margin-top: -110px;}.button {padding-top: 25px;margin: 0px;}.blauw { margin-left: auto;margin-right: auto;
+display: block;background-color: #0073cf;padding: 10px 20px 10px 20px;border-style: solid;border-width: 1.5px;border-radius: 5px;border-color: #fff;color: #fff;text-transform: uppercase;
+}.wit {text-align: center;font-size: 13px;color: #0073cf;text-transform: uppercase;border: none;background-color: white;}.grid {justify-content: center;display: grid;grid-template-columns: 1fr 1fr 1fr 1fr;
+grid-gap: 2px;padding-top: 80px;}.grid img {width: 300px;height: auto;}.grid div {width: 310px;}.grid #grid_1 {grid-column: 1;width: auto;align-content: center;margin-left: 155px;width: 300px;
+}.grid #grid_2 {grid-column: 2;width: auto;align-content: center;margin-left: 110px;width: 300px;}.grid #grid_3 {grid-column: 3;width: auto;align-content: center;margin-left: 45px;width: 300px;}
+.grid #grid_4 {grid-column: 4;width: auto;align-content: center;margin-right: 60px;width: 300px;}
+.grid div h3 {font-size: 16px;color: #0073CF;font-weight: 700;padding-bottom: 5px;}.grid div p {font-size: 14px;padding-bottom: 5px;}.grid div .leesmeer {font-size: 14px;color: #0073CF;}
+.winactie {background-color: #85BADF;opacity: 60%;padding-bottom: 80px;}.winactie p {color: #fff;font-size: 20px;padding-left: 385px;margin-top: -30px;}.winactie #ipad  {margin-left: 820px;
+padding-bottom:  20px;}.winactie h3 {padding-top: 100px;color: #fff;font-size: 29px;font-weight: 400;padding-left: 385px;margin-bottom: -70px;}.winactie button {font-family: 'Quicksand', sans-serif;font-weight: 500;
+font-size: 14px;padding: 10px 23px 10px 30px;background-color: #0073CF;color: #fff;border-style: solid;border-width: 1.5px;border-color: #fff;border-radius: 5px;display: block;margin-left: 390px;margin-top: 50px;
+}.winactie #ipad_winactie { float: right; padding-right: 350px; padding-left: 20px;}.contacteren {padding-top: 40px;padding-bottom: 40px;margin: 0 auto;width: 80%;
+}.contacteren h3 {color: #0073CF;font-size: 24px;margin-left: 36.5%;
+}.contacteren p {text-align: center;font-size: 18px;padding-left: 240px;}.contacteren button {display: block;margin-left: 46.5%;font-family: 'Quicksand', sans-serif;font-weight: 500;
+font-size: 14px;padding: 10px 20px 10px 20px;background-color: #0073CF;color: #fff;border-style: solid;border-width: 1.5px;border-color: #fff;border-radius: 10px;}.contacteren img { float: right;
+padding-right: 250px;}footer {margin-top: 50px;background-color: #0073CF;padding-bottom: 50px;}footer img {height: 40px; padding: 50px 220px; display: block; margin: 0;}
+footer .onderdeel {font-size: 14px;padding-top: 25px; margin-top: -10px; color: #fff; padding-left: 220px; margin-bottom: 0;}footer .group { float: right; margin-right: 243px; margin-top: -18px;
+ color: #fff;font-size: 14px;}footer ul { list-style-type: none; margin-top: -100px; padding-right: 220px; ; overflow: hidden;}footer li {float: right; text-transform: uppercase;}
+footer li a { display: block;color: #fff;padding: 25px;text-decoration: none;font-size: 14px; text-transform: capitalize;}
